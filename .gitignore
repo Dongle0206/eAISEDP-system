@@ -1,0 +1,23 @@
+# Windows
+*.lnk
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# OS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 不要把手册/架构图/平台文档推到体系仓库
+# （它们属于 platform 仓库，不属于体系配置）
+_manual/
+platform/
